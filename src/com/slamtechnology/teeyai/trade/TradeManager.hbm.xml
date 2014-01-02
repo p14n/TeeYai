@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+        
+<hibernate-mapping>
+    <class name="com.slamtechnology.teeyai.trade.TradeManager" table="TRADE_MANAGER">
+        <id name="managerID">
+        	<generator class="increment"/>
+        </id>
+        <property name="teeYaiName"/>
+        <property name="spread"/>
+		<list name="tradeStrategies" cascade="save-update">
+			<key column="managerID"/>
+			<index column="position"/>
+			<one-to-many class="com.slamtechnology.teeyai.trade.TradeStrategy"/>
+		</list>
+    </class>
+</hibernate-mapping>

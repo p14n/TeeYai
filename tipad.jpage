@@ -1,0 +1,2 @@
+String x = "hello";
+System.out.print(x.charAt(2)); 

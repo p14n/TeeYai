@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j='http://jakarta.apache.org/log4j/'>
+     <appender name="broker" class="org.apache.log4j.DailyRollingFileAppender">
+			<param name="File" value="logs/broker.log"/>
+			<layout class="org.apache.log4j.PatternLayout">
+				<param name="ConversionPattern" value="%-5p %d [%t] %c: %m%n" />
+			</layout>
+     </appender>
+     <appender name="macd" class="org.apache.log4j.DailyRollingFileAppender">
+			<param name="File" value="logs/macd.log"/>
+			<layout class="org.apache.log4j.PatternLayout">
+				<param name="ConversionPattern" value="%-5p %d [%t] %c: %m%n" />
+			</layout>
+     </appender>
+     <appender name="tradeManager" class="org.apache.log4j.DailyRollingFileAppender">
+			<param name="File" value="logs/tradeManager.log"/>
+			<layout class="org.apache.log4j.PatternLayout">
+				<param name="ConversionPattern" value="%-5p %d [%t] %c: %m%n" />
+			</layout>
+     </appender>
+
+     <logger name="com.slamtechnology.teeyai.trade">
+          <level value="debug" />
+          <appender-ref ref="broker" />
+     </logger>
+     <logger name="com.slamtechnology.teeyai.indicators.MACDIndicator">
+          <level value="debug" />
+          <appender-ref ref="macd" />
+     </logger>
+     <logger name="com.slamtechnology.teeyai.trade.TradeManager">
+          <level value="debug" />
+          <appender-ref ref="tradeManager" />
+     </logger>
+     
+</log4j:configuration>
+

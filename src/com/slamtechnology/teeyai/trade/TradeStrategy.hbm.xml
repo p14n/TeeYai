@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+        
+<hibernate-mapping>
+    <class name="com.slamtechnology.teeyai.trade.TradeStrategy" table="TRADE_STRATEGIES">
+        <id name="id">
+        	<generator class="increment"/>
+        </id>
+        <property name="executionType"/>
+        <property name="name"/>
+		<set name="decisions" cascade="save-update" table="trade_decisions">
+			<key column="strategyID"/>
+			<element type="string" column="decision"/>
+		</set>
+    </class>
+</hibernate-mapping>

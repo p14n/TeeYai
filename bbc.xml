@@ -1,0 +1,583 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title> BBC NEWS | Marketwatch</title>
+		<meta http-equiv="refresh" content="120"> 
+		<script language="JavaScript"> var javascript_version = 1.0;</script>
+		<script language="JavaScript1.1">  javascript_version = 1.1;</script>
+		<script language="JavaScript">
+<!-- Hide from old browsers
+var newwin;
+
+function newsWindow(URL,windowName,windowSettings)
+{
+	storyWindow = window.open(URL,windowName,windowSettings);
+	if(javascript_version > 1.0)
+	{
+ 		setTimeout('storyWindow.focus();',250);
+	}
+}
+// End -->
+</script>
+
+		<link type="text/css" rel="stylesheet" href="/nol/shared/fds/hi/business/market_data/css/v3ticker_styles.css">
+	</head>
+	<body bgcolor="#EEEEEE" text="#000000" link="#000066" alink="#000066" vlink="#000066" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload='window_setTitle()'>
+		<!-- Outside container table -->
+		<table border=0 cellpadding=0 cellspacing=0 width="450">
+			<tr>
+				<td colspan="4">
+					<table border=0 cellpadding=0 cellspacing=0 width="450">
+						<!-- Branding table starts -->
+
+						<tr>
+							<td bgcolor="#990000"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/bbc_news.gif" width=128 height=14 hspace="2" vspace="2" alt="BBC News"></td>
+							<td bgcolor="#990000"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=294 height=1 alt=""></td>
+							<td bgcolor="#990000"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=24 height=1 alt=""></td>
+						</tr>
+						<tr>
+							<td bgcolor="#990000"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=132 height=1 alt=""></td>
+							<td bgcolor="#990000"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=294 height=1 alt=""></td>
+							<td bgcolor="#990000"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=24 height=1 alt=""></td>
+
+						</tr>
+					</table>
+					<table border=0 cellpadding=0 cellspacing=0 width="450">
+						<tr>
+							<td bgcolor="#000000" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=400 height=1 alt=""></td>
+						</tr>
+						<tr bgcolor="#CCCCCC">
+							<td align="center"><div><font size="2"><b><A href="/1/shared/fds/hi/business/market_data/ticker/markets/default.stm" class="tickernav">The Markets</A></b></font></div></td>
+
+							<td><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/nav_drk.gif" width=2 height=12 alt="" vspace="2"></td>
+							<td align="center"><div><font size="2"><b><A href="/1/shared/fds/hi/business/market_data/ticker/winnerslosers/default.stm" class="tickernav">Winners &amp; Losers</A></b></font></div></td>
+							<td><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/nav_drk.gif" width=2 height=12 alt=""></td>
+							<td align="center"><div><font size="2"><b><A href="/1/shared/fds/hi/business/market_data/ticker/about/default.stm" class="tickernav">About Marketwatch</A></b></font></div></td>
+						</tr>
+						<tr>
+							<td bgcolor="#CCCCCC"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=149 height=1 alt=""></td>
+
+							<td bgcolor="#CCCCCC"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt=""></td>
+							<td bgcolor="#CCCCCC"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=148 height=1 alt=""></td>
+							<td bgcolor="#CCCCCC"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt=""></td>
+							<td bgcolor="#CCCCCC"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=149 height=1 alt=""></td>
+						</tr>
+						<tr>
+							<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						</tr>
+						<tr>
+
+							<td bgcolor="#CCCCCC" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<!-- Main content area -->
+				<td colspan=4><table cellspacing=0 border=0 cellpadding=0>
+	<tr>
+
+		<!-- Define container table cell widths -->
+		<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=10 height=1 alt=""></td>
+		<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=212 height=1 alt=""></td>
+		<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=14 height=1 alt=""></td>
+		<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=214 height=1 alt=""></td>
+	</tr>
+	<tr>
+		<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=30 alt=""></td>
+		<td bgcolor="#EEEEEE" colspan="3"><div class="instructions">Click on market or currency to view graph with detailed market information</div></td>
+
+	</tr>
+	<tr>
+		<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+		<td bgcolor="#EEEEEE" valign="top">
+			<table border=0 cellpadding=0 cellspacing=0 width="208">
+				<tr>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=3 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=3 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=64 height=1 alt=""></td>
+
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=57 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=8 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=69 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=4 height=1 alt=""></td>
+					<TD></TD>
+				</tr>
+				<tr>
+					<td bgcolor="#EEEEEE" colspan="4"><div class="tickerheader"><b>Stock markets</b></div></td>
+
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+					<td bgcolor="#EEEEEE" align="right" colspan="2"><div class="tickerheader">UK time</div></td>
+				</tr>
+				<tr>
+					<td bgcolor="#333333" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+
+				</tr>
+				
+					<tr>
+						
+							<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/red.gif" width=3 height=27 border=0 alt=""></td>
+						
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div class="statsclickdead"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>FTSE 100</b></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">6615.10</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statslo">15.80</DIV></td>
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/down.gif" WIDTH=7 HEIGHT=4 ALT="down"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 16:35</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+
+					</tr>
+				
+					<tr>
+						
+						
+							<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/2/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>Dow Jones</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">13561.04</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statshi">59.34</DIV></td>
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/up.gif" WIDTH=7 HEIGHT=4 ALT="up"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:13</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+
+					</tr>
+				
+					<tr>
+						
+						
+							<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/12122/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>Nasdaq</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">2649.34</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statshi">10.18</DIV></td>
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/up.gif" WIDTH=7 HEIGHT=4 ALT="up"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:14</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+
+					</tr>
+				
+					<tr>
+						
+						
+							<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/18/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>Dax</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">7898.54</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statslo">66.22</DIV></td>
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/down.gif" WIDTH=7 HEIGHT=4 ALT="down"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 16:45</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+
+					</tr>
+				
+					<tr>
+						
+						
+							<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/1/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>Cac 40</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">6001.09</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statslo">18.13</DIV></td>
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/down.gif" WIDTH=7 HEIGHT=4 ALT="down"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:10</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+
+					</tr>
+				
+					<tr>
+						
+						
+							<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/11826/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>S&amp;P 500</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">1514.80</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statshi">4.68</DIV></td>
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/up.gif" WIDTH=7 HEIGHT=4 ALT="up"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:18</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+
+					</tr>
+				
+					<tr>
+						
+						
+							<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/29954/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>BBC Global 30</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">5905.75</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statslo">36.88</DIV></td>
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/down.gif" WIDTH=7 HEIGHT=4 ALT="down"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:34</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+
+					</tr>
+				
+				<!-- Begin currencies -->
+				<tr>
+					<td bgcolor="#EEEEEE" colspan="7"><div class="stats"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=9 alt=""></div></td>
+				</tr>
+				<tr>
+					<td bgcolor="#EEEEEE" colspan="4"><div class="tickerheader"><b>Currencies</b></div></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+
+					<td bgcolor="#EEEEEE" align="right" colspan="2"><div class="tickerheader">UK time</div></td>
+				</tr>
+				<tr>
+					<td bgcolor="#333333" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+				</tr>
+
+				
+					<tr>
+						
+						<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+						
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/11/12/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>Sterling - US Dollar</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">2.0328</div></td>
+
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statshi">0.0052</DIV></td>
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/up.gif" WIDTH=7 HEIGHT=4 ALT="up"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:35</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+					</tr>
+				
+					<tr>
+
+						
+						<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+						
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/11/13/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>Sterling - Euro</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">1.4766</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statshi">0.0042</DIV></td>
+
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/up.gif" WIDTH=7 HEIGHT=4 ALT="up"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:35</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+					</tr>
+				
+					<tr>
+						
+						<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+
+						
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/13/12/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>Euro - US Dollar</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">1.3767</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statslo">0.0004</DIV></td>
+
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/down.gif" WIDTH=7 HEIGHT=4 ALT="down"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:35</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+					</tr>
+				
+					<tr>
+						
+						<td bgcolor="#EEEEEE" valign="bottom" rowspan="4"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/ticker/gry.gif" width=3 height=27 border=0 alt=""></td>
+
+						
+						
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=13 alt=""></td>
+						<td bgcolor="#EEEEEE" valign="bottom" colspan="5"><div><A href="/1/shared/fds/hi/business/market_data/ticker/markets/12/14/default.stm" class="statsclick"><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/v3_graph_ic.gif" width=11 height=11 border=0 alt=""><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=2 height=1 alt="" border=0><b>US Dollar - Yen</b></A></div></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">122.0950</div></td>
+						<td bgcolor="#FFFFFF" align="right"><DIV CLASS="statshi">0.7400</DIV></td>
+
+						<td ALIGN=LEFT BGCOLOR="#FFFFFF" VALIGN=MIDDLE><img src="http://newsimg.bbc.co.uk/nol/shared/fds/hi/business/market_data/img/up.gif" WIDTH=7 HEIGHT=4 ALT="up"></td>
+						<td bgcolor="#FFFFFF" align="right"><div class="stats">at 17:35</div></td>
+						<td bgcolor="#FFFFFF"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#666666" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+						<td bgcolor="#999999" colspan="5"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					</tr>
+					<tr>
+						<td bgcolor="#EEEEEE" colspan="7"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+					</tr>
+				
+			</table>
+		</td>
+
+		<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+		<td bgcolor="#EEEEEE" valign="top">
+			<table border=0 cellpadding=0 cellspacing=0 width="152">
+				<tr>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><div class="tickerheader"><b>FTSE 100</b></div></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+
+				<tr>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					<td bgcolor="#333333"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+				</tr>
+				<tr>
+					<td bgcolor="#EEEEEE" colspan="3"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=3 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE">
+						<div class="ticgraphheader">
+							<b>Latest</b>
+
+						</div>
+					</td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#666666" colspan="3"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#666666"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+					<td bgcolor="#EEEEEE"><div><img src="./img/3+bbc-thumbnail_thick-line+intraday.png" alt="FTSE 100 intraday chart"></div></td>
+					<td bgcolor="#666666"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#666666" colspan="3"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+			</table>
+			<div style="font-size:14px">
+				<img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=16 alt="">
+
+			</div>
+			<table border=0 cellpadding=0 cellspacing=0 width="152">
+				<tr>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=150 height=1 alt=""></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+					<td bgcolor="#EEEEEE"><div class="ticgraphheader"><b>3 Months</b></div></td>
+					<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=14 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#666666" colspan="3"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#666666"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+
+					<td bgcolor="#EEEEEE"><div><img src="./img/3+bbc-thumbnail_thick-line+three_month.png" alt="FTSE 100 three month chart"></div></td>
+					<td bgcolor="#666666"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				</tr>
+				<tr>
+					<td bgcolor="#666666" colspan="3"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+			</table>
+		</td>
+	</tr>
+</table></td>
+
+			</tr>
+		</table>
+		<table border=0 cellpadding=0 cellspacing=0 width="450">
+			<tr>
+				<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=1 alt=""></td>
+				<td bgcolor="#EEEEEE"> <img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=5 alt=""><br/><div class="services"><font size="2"><a href="/nol/shared/fds/hi/business/market_data/html/ticker/copyrt.stm" class="services">&copy;BBC</a></font></div></td>
+				<td bgcolor="#EEEEEE" align="right"> <img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=1 height=5 alt=""><br/><div><font size="2"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=5 height=1 alt=""><a href="javascript:newsWindow('http://news.bbc.co.uk/1/hi/business/default.stm','newsWindow' , 'toolbar=1,location=1,menubar=1,scrollbars=1,resizable=1,status=1,width=800,height=632,screenX=80,screenY=80,top=150,left=200')" class="services">BBC business news &gt;&gt;&gt;</a>&nbsp;</font></div></td>
+
+			</tr>
+			<tr>
+				<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=10 height=1 alt=""></td>
+				<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=180 height=1 alt=""></td>
+				<td bgcolor="#EEEEEE"><img src="http://newsimg.bbc.co.uk/shared/img/o.gif" width=260 height=1 alt=""></td>
+			</tr>
+		</table>
+		<script language="JavaScript">
+<!--
+function window_setTitle()
+{
+	document.title='FTSE 6615.10 -15.80';
+}
+-->
+</script><!-- 1184171344047 --></body>
+
+</html>
