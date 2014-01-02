@@ -6,3 +6,5 @@ TeeYaiDB/
 *.log
 
 bin/
+
+lib/
